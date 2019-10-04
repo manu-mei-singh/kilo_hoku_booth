@@ -13,7 +13,7 @@ https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet/PoseNet_webcam
 How to make this work:
 
 1. Download both files. 
-2. Make sure both files are in the same folder*
+2. Make sure both files are in the same folder
 3. Open the index.html file in a browser (make sure you have a wifi connection)
 4. The model should load and you should start seeing white dots on people.
 5. At this point you can turn off the wifi if you so wish (Mahalo Keahi!)
