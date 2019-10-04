@@ -13,20 +13,21 @@ https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet/PoseNet_webcam
 How to make this work:
 
 1. Download both files. 
-2. Make sure both files are in the same folder
-3. Open the index.html file in a browser (make sure you have a wifi connection)
+2. Make sure both files are in the same folder.
+3. Open the index.html file in a browser (make sure you have a wifi connection).
 4. The model should load and you should start seeing white dots on people.
-5. At this point you can turn off the wifi if you so wish (Mahalo Keahi!)
-6. Pose in front of the laptop/cam 
+5. At this point you can turn off the wifi if you so wish (Mahalo Keahi!).
+6. Pose in front of the laptop/cam.
 7. Hit the "letter" a to take a screenshot -- the photo will be downloaded into your downloads. 
 
 **Make sure you have a camera attached to your computer/laptop for usage**
 
 Setting up the photobooth: 
 
-1. get as dark a room as possible.
-2. Get a black wall (fabric or paint -- Mahalo Olin!)
-3. Find an ideal distance (Mahalo Albert!)
+1. Get as dark a room as possible.
+2. Get a black wall (fabric or paint -- Mahalo Olin!).
+3. Find an ideal distance (Mahalo Albert!).
+4. Get help cleaning up and with setup (Mahalo Naomi! Mahalo Kalei!).
 
 _If the room is dark enough and people are on a black wall, you should mostly see the skeleton and points from PoseNet neural network_
 
